@@ -11,12 +11,12 @@ Data schema:
 
 - order_id (str)
 - customer_id (str)
-  - order_items_count (int)→ number of items in the order
+- order_items_count (int)→ number of items in the order
 - order_value (float)→ total Euro value of the order
 - created_timestamp_local (timestamp)→ timestamp of the order
 - delivery_geohash_precision8 (str)→ geohash of the order, at precision-level 8
 - delivery_postal_code (int)
-  - logistics_dropoff_distance (float)→ the target variable, in meters
+- logistics_dropoff_distance (float)→ the target variable, in meters
 - has_bell_instruction (boolean)→ delivery_instructions contains “bell”
 - has_call_instruction (boolean)
 - has_gate_instruction (boolean)
@@ -25,7 +25,7 @@ Data schema:
 - has_leave_instruction (boolean)
 - has_lift_instruction (boolean)
 - has_lobby_instruction (boolean)
-  - has_phone_number (boolean)→ delivery_instructions contains a phone 
+- has_phone_number (boolean)→ delivery_instructions contains a phone 
 
 ## Preprocess & Feature Engineering
 
