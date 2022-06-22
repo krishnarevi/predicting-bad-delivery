@@ -47,7 +47,7 @@ From the dataset, there is one datetime attributes available - 'created_timestam
 
 Exploratory data analysis (EDA) is performed on the attributes to get more insights. Following are a few of the insights gathered from EDA.
 
-![](README.assets/hr.PNG)![](README.assets/day.PNG)
+![](README.assets/hr.PNG)       ![](README.assets/day.PNG)
 
 ![](README.assets/has_ins.PNG)
 
