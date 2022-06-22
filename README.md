@@ -78,7 +78,7 @@ In this section, I’ve tried several different Machine Learning models such as 
 - As per our best model *has_lobby_instruction, has_bell_instruction, Hour, Order_value, has_gate_instruction* are most important features. This aligns with our findings from correlation matrix
 
 And the important features are :
-![]([![](https://github.com/krishnarevi/predicting-bad-delivery/readme/feat.png?raw=true)))
+![](https://github.com/krishnarevi/predicting-bad-delivery/readme/feat.png?raw=true)
 
 
 ## Ideas about improvements
