@@ -47,6 +47,12 @@ From the dataset, there is one datetime attributes available - 'created_timestam
 
 Exploratory data analysis (EDA) is performed on the attributes to get more insights. Following are a few of the insights gathered from EDA.
 
+![](D:\krishna\deliveryhero\Prediction_bad_food_deliveries\readme\hr.png)![](D:\krishna\deliveryhero\Prediction_bad_food_deliveries\readme\day.png)
+
+![](D:\krishna\deliveryhero\Prediction_bad_food_deliveries\readme\has_ins.png)
+
+
+
 - Most of demands are from the weekend
 - There are three obvious patterns in demand by the created hour: 0am - 5am, 6am-3pm, 4pm-11pm.
 - Most of our data is from March 2021 as given in description and there are very few from April
@@ -78,8 +84,8 @@ In this section, I’ve tried several different Machine Learning models such as 
 - As per our best model *has_lobby_instruction, has_bell_instruction, Hour, Order_value, has_gate_instruction* are most important features. This aligns with our findings from correlation matrix
 
 And the important features are :
-![](https://github.com/krishnarevi/predicting-bad-delivery/readme/feat.png?raw=true)
 
+![](D:\krishna\deliveryhero\Prediction_bad_food_deliveries\readme\feat.png)
 
 ## Ideas about improvements
 
