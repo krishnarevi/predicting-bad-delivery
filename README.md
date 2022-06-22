@@ -47,9 +47,9 @@ From the dataset, there is one datetime attributes available - 'created_timestam
 
 Exploratory data analysis (EDA) is performed on the attributes to get more insights. Following are a few of the insights gathered from EDA.
 
-![](readme\hr.png)![](readme\day.png)
+![](README.assets/hr.png)![](README.assets/day.png)
 
-![](readme\has_ins.png)
+![](README.assets/has_ins.png)
 
 
 
@@ -85,7 +85,7 @@ In this section, I’ve tried several different Machine Learning models such as 
 
 And the important features are :
 
-![](readme\feat.png)
+![](README.assets/feat.png)
 
 ## Ideas about improvements
 
