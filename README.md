@@ -27,7 +27,7 @@ Data schema:
 - has_lobby_instruction (boolean)
 - has_phone_number (boolean)→ delivery_instructions contains a phone 
 
-## Preprocess & Feature Engineering
+## Data Preprocessing & Feature Engineering
 
 When we analyze the data there are some extreme values present in the target variable (logistics_dropoff_distance). When we divide dropoff distance into three categories for easier analysis -logistics_dropoff_distance > 10km (10000 mtrs) we say distance is "huge", between 1000 and 10000 "large" otherwise "small", we get the following distribution.
 
